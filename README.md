@@ -31,3 +31,4 @@ Bluetooth Configuration:
 
 Arduino Bluetooth Controller :- https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control 
 
+check YouTube : https://youtu.be/Sn5b-joYrxo?si=PBuwj_ctiX7SGrA5
